@@ -30,7 +30,7 @@ Miner Installation URL: https://github.com/gokyuzugokturk/igotek-neptune-prover/
 *****
 
 WALLET CREATION    
-![wallet](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/001_wallet.png)
+![wallet](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/001_wallet.png)
 
 Get wallet address from https://safetrade.com  
 Set wallet address at the flight sheet !
@@ -40,7 +40,7 @@ Set wallet address at the flight sheet !
 FLIGHT SHEET  
 ![FLIGHTSHEETMAIN](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/002_flight-sheet-main.png)
 
-![FLIGHTSHEET](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/003_flight-sheet.png)
+![FLIGHTSHEET](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/003_flight-sheet.png)
 
 *****
 
@@ -53,7 +53,7 @@ Pool Fee: %5
 *****
 
 RIG
-![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/004_rig.png)
+![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/004_rig.png)
 
 *****
 
