@@ -38,7 +38,7 @@ Set wallet address at the flight sheet !
 *****
 
 FLIGHT SHEET  
-![FLIGHTSHEETMAIN](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/002_flight-sheet-main.png)
+![FLIGHTSHEETMAIN](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/002_flight-sheet-main.png)
 
 ![FLIGHTSHEET](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/003_flight-sheet.png)
 
