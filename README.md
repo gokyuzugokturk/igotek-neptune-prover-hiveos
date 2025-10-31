@@ -46,7 +46,7 @@ FLIGHT SHEET
 
 Pool URL Options:  
 stratum+ssl://eu.nptpool.io:4444  
-stratum+ssl://ru.nptpool.io:4444
+USE this one: stratum+ssl://ru.nptpool.io:4444
 
 Pool Fee: %5
 
