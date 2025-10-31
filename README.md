@@ -14,7 +14,7 @@ Miner Installation URL: https://github.com/gokyuzugokturk/igotek-neptune-prover/
 WALLET CREATION    
 ![wallet](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/001_wallet.png)
 
-Get wallet address from https://safetrade.com
+Get wallet address from https://safetrade.com  
 Set wallet address at the flight sheet !
 
 *****
@@ -26,8 +26,8 @@ FLIGHT SHEET
 
 *****
 
-Pool URL Options:
-stratum+ssl://eu.nptpool.io:4444
+Pool URL Options:  
+stratum+ssl://eu.nptpool.io:4444  
 stratum+ssl://ru.nptpool.io:4444
 
 Pool Fee: %5
