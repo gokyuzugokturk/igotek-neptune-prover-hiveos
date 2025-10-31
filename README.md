@@ -3,17 +3,17 @@ iGoTeK Neptune Prover for HiveOS
 A high-performance GPU Solo-mining software for Neptune Cash (NPT) cryptocurrency, optimized for NVIDIA GPUs with 21GB+ VRAM.
 
 Prerequisites  
-HiveOS
-Neptune wallet address
+HiveOS  
+Neptune wallet address  
 NVIDIA GPU with 21GB+ VRAM
 
-Supported GPUs
-L40S
-RTX 6000 ADA
-A40
-RTX 5090
-RTX 6000
-RTX 4090
+Supported GPUs  
+L40S  
+RTX 6000 ADA  
+A40  
+RTX 5090  
+RTX 6000  
+RTX 4090  
 RTX 3090
 
 *****
