@@ -15,6 +15,7 @@ WALLET CREATION
 ![wallet](https://github.com/gokyuzugokturk/igotek-neptune-prover/blob/main/img/001_wallet.png)
 
 Get wallet address from https://safetrade.com
+Set wallet address at the flight sheet !
 
 *****
 
