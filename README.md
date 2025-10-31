@@ -56,6 +56,12 @@ Pool Fee: %5
 
 *****
 
+stratum+ssl://77-91-76-253.sslip.io:4444
+
+Pool Fee: %10
+
+*****
+
 RIG
 ![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/004_rig.png)
 
