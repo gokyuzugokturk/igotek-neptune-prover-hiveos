@@ -56,6 +56,7 @@ Pool Fee: %5
 
 *****
 
+Pool URL Options:  
 stratum+ssl://77-91-76-253.sslip.io:4444
 
 Pool Fee: %10
