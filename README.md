@@ -48,6 +48,10 @@ Pool URL Options:
 stratum+ssl://eu.nptpool.io:4444  
 USE this one: stratum+ssl://ru.nptpool.io:4444
 
+Warning:
+Please use stratum+ssl://ru.nptpool.io:4444 for the pool URL
+stratum+ssl://eu.nptpool.io:4444 gives error sometimes.
+
 Pool Fee: %5
 
 *****
