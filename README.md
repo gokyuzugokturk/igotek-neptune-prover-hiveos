@@ -13,7 +13,8 @@ RTX 6000 ADA
 A40  
 RTX 6000 
 RTX A5000 @ 220W ~6.50 MH/s (Core Clock Offset 200)  
-RTX 5090 @580W ~39 MH/s  
+RTX 5090 @ 580W ~39 MH/s  
+RTX 5090 @ 450W ~30 MH/s  
 RTX 4090 @ 280W ~16 MH/s   
 RTX 4090 @ 450W ~21 MH/s    
 RTX 3090 @ 320W ~9 MH/s (Core Clock Offset 150, Lock Core Clock 1740)  
@@ -63,6 +64,9 @@ Wallet Address at the extra config:
 
 RIG  
 ![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/004.png)
+
+RIG  
+![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/005.png)
 
 RIG
 ![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/003.png)
