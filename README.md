@@ -61,6 +61,9 @@ Wallet Address at the extra config:
 
 *****
 
+RIG  
+![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/004.png)
+
 RIG
 ![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/003.png)
 
