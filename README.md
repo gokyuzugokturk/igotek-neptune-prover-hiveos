@@ -40,33 +40,32 @@ Set wallet address at the flight sheet !
 *****
 
 FLIGHT SHEET  
-![FLIGHTSHEETMAIN](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/002_flight-sheet-main.png)
+![FLIGHTSHEETMAIN](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/001.png)
 
-![FLIGHTSHEET](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/003_flight-sheet.png)
-
-*****
-
-Pool URL Options:  
-stratum+ssl://eu.nptpool.io:4444  
-USE this one: stratum+ssl://ru.nptpool.io:4444
-
-Warning:
-Please use stratum+ssl://ru.nptpool.io:4444 for the pool URL
-stratum+ssl://eu.nptpool.io:4444 gives error sometimes.
-
-Pool Fee: %5
+![FLIGHTSHEET](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/002.png)
 
 *****
 
-Pool URL Options:  
-stratum+ssl://77-91-76-253.sslip.io:4444
+Pool URL: stratum+ssl://eu.poolhub.io:4444  
+Pool Fee: % 10
 
-Pool Fee: %10
+*****
+
+GPU Selection at the extra config:
+--gpu 0,1,2,3,4,5
+
+*****
+
+Wallet Address at the extra config:
+----neptunewallet your_neptune_wallet_address
 
 *****
 
 RIG
-![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/004_rig.png)
+![RIG](https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/blob/main/img/003.png)
+
+There are no fan speed at this screen-shot because the graphic cards uses custom fans, not original ones.  
+You will see fan speeds if your graphic cards have the original fans.
 
 *****
 
