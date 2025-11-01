@@ -1,4 +1,4 @@
-iGoTeK Neptune Prover for HiveOS
+iGoTeK Neptune Prover v1.6 for HiveOS
 
 A high-performance GPU Solo-mining software for Neptune Cash (NPT) cryptocurrency, optimized for NVIDIA GPUs with 21GB+ VRAM.
 
@@ -11,10 +11,12 @@ Supported GPUs
 L40S  
 RTX 6000 ADA  
 A40  
-RTX 5090  
-RTX 6000  
-RTX 4090  
-RTX 3090
+RTX 6000 
+RTX A5000 @ 220W ~6.50 MH/s (Core Clock Offset 200)
+RTX 5090 @580W ~39 MH/s  
+RTX 4090 @ 280W ~16 MH/s   
+RTX 4090 @ 450W ~21 MH/s    
+RTX 3090 @ 320W ~9 MH/s (Core Clock Offset 150, Lock Core Clock 1740)  
 
 *****
 
@@ -25,7 +27,7 @@ Discord: https://discord.gg/w6GuBsWHQa
 
 Always use the latest release !
 
-Miner Installation URL: https://github.com/gokyuzugokturk/igotek-neptune-prover/releases/download/v1.5/neptune-1.5.tar.gz
+Miner Installation URL: https://github.com/gokyuzugokturk/igotek-neptune-prover/releases/download/v1.5/neptune-1.6.tar.gz
 
 *****
 
