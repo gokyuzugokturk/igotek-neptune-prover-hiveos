@@ -78,6 +78,6 @@ You will see fan speeds if your graphic cards have the original fans.
 
 *****
 
-Dev Fee: % 1
+Dev Fee: % 5
 
 *****
