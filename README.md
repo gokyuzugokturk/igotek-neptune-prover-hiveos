@@ -83,3 +83,7 @@ Dev Fee: % 5
 OXZD-0.7.1
 
 *****
+
+You can set idle-time for your own choice !
+
+*****
