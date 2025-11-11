@@ -1,6 +1,6 @@
 iGoTeK Neptune Prover v1.7 for HiveOS
 
-Video Tutorial: https://www.youtube.com/watch?v=WzOrcKVx-Xg 
+Video Tutorial: https://youtu.be/AX4x20-7R-Y
 
 A high-performance GPU Solo-mining software for Neptune Cash (NPT) cryptocurrency, optimized for NVIDIA GPUs with 21GB+ VRAM. I'm not the pool owner. I'm not the miner dev. All fees goes to the its developers.
 
