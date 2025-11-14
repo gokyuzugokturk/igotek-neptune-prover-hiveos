@@ -30,7 +30,7 @@ Discord: https://discord.gg/w6GuBsWHQa
 
 Always use the latest release !
 
-Miner Installation URL: https://github.com/gokyuzugokturk/igotek-neptune-prover/releases/download/v1.5/neptune-1.6.tar.gz
+Miner Installation URL: https://github.com/gokyuzugokturk/igotek-neptune-prover-hiveos/releases/download/v1.8/neptune-1.8.tar.gz
 
 *****
 
