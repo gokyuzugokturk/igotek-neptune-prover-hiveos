@@ -1,4 +1,4 @@
-iGoTeK Neptune Prover v1.7 for HiveOS
+iGoTeK Neptune Prover v1.8 for HiveOS
 
 Video Tutorial: https://youtu.be/AX4x20-7R-Y
 
